@@ -1,2 +1,1 @@
-# TDDE01
-Det här är vårt git repo för ML-helvetet
+See attached files called Reports 1-3 for further reference on what was achieved. 
